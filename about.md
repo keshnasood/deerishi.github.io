@@ -11,4 +11,4 @@ Some information about you!
 Most of my projects have been in the area of Machine Learning. 
 ### Contact me
 
-[drishi@uwaterloo.ca](mailto:drishi@uwaterloo.ca)
+[drishi@uwaterloo.ca](mailto:email@domain.com)
