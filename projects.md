@@ -26,6 +26,8 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Hidden Markov Model and the Viterbi Algorithm in Python](https://github.com/deerishi/Hidden-Markov-Model)
 
++ [Non Linear Kernelized Regression](http://deerishi.github.io/Non-Linear-Kernelized-Regression)
+
 
 
 
