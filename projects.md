@@ -22,6 +22,8 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Travelling Salesman using simulated annealing C++](http://deerishi.github.io/tsp-using-simulated-annealing-c-/)
 
++ [Travelling Salesman using Astar Search C++](http://deerishi.github.io/tsp-using-simulated-annealing-c-/)
+
 
 
 
