@@ -12,7 +12,8 @@ permalink: /courses/
 
 # 2015 Fall Term
 
-+ Operating Systems (CS 350)](https://www.student.cs.uwaterloo.ca/~cs350/F15/courseoutline.html)
++ [Operating Systems (CS 350)](https://www.student.cs.uwaterloo.ca/~cs350/F15/courseoutline.html)
 
 + [Deep Learning  (STAT 946)](https://uwaterloo.ca/data-science/deep-learning) 
 
++ [Automatic Memory Management and Garbage Collection (CS 842)](http://the.gregor.institute/t/5n/842/)
