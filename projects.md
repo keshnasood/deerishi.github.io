@@ -28,6 +28,8 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Non Linear Kernelized Regression](http://deerishi.github.io/Non-Linear-Kernelized-Regression)
 
++ [Logistic regression convergence analysis using Newton's Method](https://github.com/deerishi/Logistic-Regression-Convergence-Analysis/blob/master/Objective%20Function.png)
+
 
 
 
