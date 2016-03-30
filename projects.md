@@ -24,6 +24,8 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Travelling Salesman using Astar Search C++](http://deerishi.github.io/tsp-using-simulated-annealing-c-/)
 
++ [Hidden Markov Model and the Viterbi Algorithm in Python](https://github.com/deerishi/Hidden-Markov-Model)
+
 
 
 
