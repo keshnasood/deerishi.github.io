@@ -18,6 +18,9 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Mark and Sweep Garbage Collector](https://github.com/deerishi/Project_1_Mark_n_Sweep/tree/master/ggggc-cs842-2015-10-06-00307695ee70-1173644aa56c)
 
++ [Variable Elimination for Inference in a Bayesian Network](https://github.com/deerishi/variable-elimination) 
+
++ [Travelling Salesman using simulated annealing C++](http://deerishi.github.io/tsp-using-simulated-annealing-c-/)
 
 
 
