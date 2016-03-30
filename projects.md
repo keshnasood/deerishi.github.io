@@ -12,6 +12,14 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Sudoku as graph coloring and constraint satisfaction problem (C++)](http://deerishi.github.io/sudoku-as-graph-coloring-and-constraint-satisfaction-problem/)
 
++ [Tic tac toe using alpha beta minimax search (Python)](http://deerishi.github.io/Tic-Tac-Toe-Using-Alpha-Beta-Minimax-Search/)
+
++ [Bernoulli document model based naive bayes sms spam classification] (http://deerishi.github.io/Bernoulli-Document-Model_Based-Naive-Bayes-SMS-Spam-Classification/)
+
++ [Mark and Sweep Garbage Collector](https://github.com/deerishi/Project_1_Mark_n_Sweep/tree/master/ggggc-cs842-2015-10-06-00307695ee70-1173644aa56c)
+
+
+
 
 
 
