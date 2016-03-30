@@ -10,6 +10,8 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Decision Tree in Python for Continuous Attributes](http://deerishi.github.io/Decision-Tree-in-Python-for-Continuous-Attributes/)
 
++ [Bayes Net Structure Prediction of a dataset](http://deerishi.github.io/Bayes-Net-Structure-Prediction/)
+
 + [Sudoku as graph coloring and constraint satisfaction problem (C++)](http://deerishi.github.io/sudoku-as-graph-coloring-and-constraint-satisfaction-problem/)
 
 + [Tic tac toe using alpha beta minimax search (Python)](http://deerishi.github.io/Tic-Tac-Toe-Using-Alpha-Beta-Minimax-Search/)
