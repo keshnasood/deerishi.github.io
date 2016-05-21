@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /assets/resume.pdf
+permalink: /cv/
 group: navigation
 ---
