@@ -9,7 +9,7 @@ permalink: /courses/
 
 + [Algorithms (CS 341)](https://www.student.cs.uwaterloo.ca/~cs341/)
 
-+ [Instructional Appentice for Data Types and Structures CS234](https://www.student.cs.uwaterloo.ca/~cs234/)
++ [Instructional Appentice for Data Types and Structures CS234](https://www.student.cs.uwaterloo.ca/~cs234/personnel.shtml)
 
 # 2016 Winter Term 
 
