@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 permalink: /assets/resume.pdf
-group : navigation
 ---
 
 * [Top Orthogonal to Bottom Electrode (TOBE) 2D CMUT Arrays for 3D Photoacoustic Imaging](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6863862&newsearch=true&searchWithin=%22First%20Name%22:D.&searchWithin=%22Last%20Name%22:RIshi) Chee, R.; Sampaleanu, A.; Rishi, D.; Zemp, R. . IEEE TUFFC journal (Volume:61, Issue: 8)
