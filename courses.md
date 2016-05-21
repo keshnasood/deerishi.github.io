@@ -3,6 +3,13 @@ layout: page
 title: Courses
 permalink: /courses/
 ---
+# 2016 Spring Term 
+
++ [Time Series Analysis  (STAT 929)](http://www.ucalendar.uwaterloo.ca/SA/GRAD/0910/GRDcourse-STAT.html)
+
++ [Algorithms (CS 341)](https://www.student.cs.uwaterloo.ca/~cs341/)
+
++ [Instructional Appentice for Data Types and Structures CS234](https://www.student.cs.uwaterloo.ca/~cs234/)
 
 # 2016 Winter Term 
 
