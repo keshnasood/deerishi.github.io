@@ -6,6 +6,10 @@ permalink: /projects/
 
 Most of my projects have been in the area of Machine Learning and Aritficial Intelligence.
 
++[Tuning the parameters of Convolutional Neural Net using Genetic Algorithm for Image Classification](http://deerishi.github.io/genetic-algorithm-for-cnn/)
+
++[Graph Based Semi Supervised Learning for Document Classification](http://deerishi.github.io/graph-based-semi-supervised-learning/)
+
 + [Policy Search in a Markov Decision Process](http://deerishi.github.io/Policy-Search-in-a-Markov-Decision-Process/)
 
 + [Decision Tree in Python for Continuous Attributes](http://deerishi.github.io/Decision-Tree-in-Python-for-Continuous-Attributes/)
@@ -20,7 +24,7 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Mark and Sweep Garbage Collector](https://github.com/deerishi/Project_1_Mark_n_Sweep/tree/master/ggggc-cs842-2015-10-06-00307695ee70-1173644aa56c)
 
-+ [Variable Elimination for Inference in a Bayesian Network](https://github.com/deerishi/variable-elimination) 
++ [Variable Elimination for Inference in a Bayesian Network](http://deerishi.github.io/variable-elimination/) 
 
 + [Travelling Salesman using simulated annealing C++](http://deerishi.github.io/tsp-using-simulated-annealing-c-/)
 
