@@ -30,11 +30,11 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Travelling Salesman using Astar Search C++](http://deerishi.github.io/tsp-using-simulated-annealing-c-/)
 
-+ [Hidden Markov Model and the Viterbi Algorithm in Python](https://github.com/deerishi/Hidden-Markov-Model)
++ [Hidden Markov Model and the Viterbi Algorithm in Python](http://deerishi.github.io/Hidden-Markov-Model/)
 
 + [Non Linear Kernelized Regression](http://deerishi.github.io/Non-Linear-Kernelized-Regression)
 
-+ [Logistic regression convergence analysis using Newton's Method](https://github.com/deerishi/Logistic-Regression-Convergence-Analysis/blob/master/Objective%20Function.png)
++ [Logistic regression convergence analysis using Newton's Method](http://deerishi.github.io/Logistic-Regression-Convergence-Analysis/)
 
 
 
