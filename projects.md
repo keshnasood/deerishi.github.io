@@ -6,9 +6,9 @@ permalink: /projects/
 
 Most of my projects have been in the area of Machine Learning and Aritficial Intelligence.
 
-+[Tuning the parameters of Convolutional Neural Net using Genetic Algorithm for Image Classification](http://deerishi.github.io/genetic-algorithm-for-cnn/)
++ [Tuning the parameters of Convolutional Neural Net using Genetic Algorithm for Image Classification](http://deerishi.github.io/genetic-algorithm-for-cnn/)
 
-+[Graph Based Semi Supervised Learning for Document Classification](http://deerishi.github.io/graph-based-semi-supervised-learning/)
++ [Graph Based Semi Supervised Learning for Document Classification](http://deerishi.github.io/graph-based-semi-supervised-learning/)
 
 + [Policy Search in a Markov Decision Process](http://deerishi.github.io/Policy-Search-in-a-Markov-Decision-Process/)
 
