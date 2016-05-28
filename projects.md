@@ -39,7 +39,7 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 
 
-
+ 
 ### Contact me
 
 [drishi@uwaterloo.ca](mailto:email@domain.com)
