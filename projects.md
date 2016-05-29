@@ -37,6 +37,16 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 + [Logistic regression convergence analysis using Newton's Method](http://deerishi.github.io/Logistic-Regression-Convergence-Analysis/)
 
 
+Ongoing Projects
+
++ Skip-gram and Continous Bag of words model for learning word vectors.
+
++ Deep Networks for Named Entity Recognition.
+
++ Language Modelling using Recurrent Networks.
+
++ Developing Affective user grofiles for  github users. 
+
 
 
  
