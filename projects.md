@@ -20,6 +20,8 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Tic tac toe using alpha beta minimax search (Python)](http://deerishi.github.io/Tic-Tac-Toe-Using-Alpha-Beta-Minimax-Search/)
 
++ [Ensemble of Seasonal Autoregressive Integrated Moving Average (SARIMA), Random Forests and Gradient Boosted Trees for Kaggle Bike Sharing Demand Challenge](https://deerishi.github.io/ensemble-of-sarima-random-forests-and-gradient-boosting-trees/)
+
 + [Bernoulli document model based naive bayes sms spam classification](http://deerishi.github.io/Bernoulli-Document-Model_Based-Naive-Bayes-SMS-Spam-Classification/)
 
 + [Mark and Sweep Garbage Collector](https://github.com/deerishi/Project_1_Mark_n_Sweep/tree/master/ggggc-cs842-2015-10-06-00307695ee70-1173644aa56c)
