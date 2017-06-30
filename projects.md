@@ -49,8 +49,6 @@ Ongoing Projects
 
 + Deep Networks for Named Entity Recognition.
 
-+ .
-
 + Developing Affective user grofiles for  github users. 
 
 
