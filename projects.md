@@ -38,14 +38,18 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Logistic regression convergence analysis using Newton's Method](http://deerishi.github.io/Logistic-Regression-Convergence-Analysis/)
 
++ [Mad Libs game for Android](https://github.com/deerishi/Android-Mad-libs-app)
+
++ [ Skip-gram  Bag of words model for learning word vectors](https://github.com/deerishi/Skim-gram-word-vectors)
+
++ [ Language Modelling using Recurrent Networks](https://github.com/deerishi/Skim-gram-word-vectors)
 
 Ongoing Projects
 
-+ Skip-gram and Continous Bag of words model for learning word vectors.
 
 + Deep Networks for Named Entity Recognition.
 
-+ Language Modelling using Recurrent Networks.
++ .
 
 + Developing Affective user grofiles for  github users. 
 
