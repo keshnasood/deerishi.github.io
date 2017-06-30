@@ -3,6 +3,18 @@ layout: page
 title: Courses
 permalink: /courses/
 ---
+# 2017 Winter Term 
+
++ [Empirical Software Engineering using Ultra Large Repositories (CS846)](https://cs.uwaterloo.ca/~m2nagapp/courses/CS846/1171/)
+
++ [Instructional Appentice for Data Types and Structures CS234](https://www.student.cs.uwaterloo.ca/~cs234/personnel.shtml)
+
+# 2016 Fall Term 
+
++ [Concurrent and Parallel Programming (CS343)](https://www.student.cs.uwaterloo.ca/~cs343/)
+
++ [Computer Networks (CS 656)](https://www.student.cs.uwaterloo.ca/~cs456/S13/)
+
 # 2016 Spring Term 
 
 + [Time Series Analysis  (STAT 929)](http://www.ucalendar.uwaterloo.ca/SA/GRAD/0910/GRDcourse-STAT.html)
