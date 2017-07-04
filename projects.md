@@ -40,6 +40,8 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Mad Libs game for Android](https://github.com/deerishi/Android-Mad-libs-app)
 
++ [A To-do list app for Android](https://github.com/deerishi/To-do-list-app-in-Android)
+
 + [ Skip-gram  Bag of words model for learning word vectors](https://github.com/deerishi/Skim-gram-word-vectors)
 
 + [ Language Modelling using Recurrent Networks](https://github.com/deerishi/Skim-gram-word-vectors)
