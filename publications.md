@@ -12,4 +12,7 @@ Symposium (IUS) 2013, Prague
 * [S-Sequence Bias-Encoded Photoacoustic Imaging with Top Orthogonal to Bottom Electrode (TOBE) CMUT Arrays](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6724922&newsearch=true&searchWithin=%22First%20Name%22:D.&searchWithin=%22Last%20Name%22:RIshi) Zemp, R.J. ; Chee, R. ; Sampaleanu, A. ; Rishi, D. ; Forbrich, A. “”. IEEE International Ultrasonics Symposium (IUS) 2013, Prague.
 
 
+* [Speaker Recognition Using Support Vector Machines](http://ijmas.iraj.in/paper_detail.php?paper_id=476&name=Speaker_Recognition_Using_Support_Vector_Machines) :Sahoo, J. K., Deepak Rishi International Journal of Electrical, Electronics and Data Communication, 2(1), 1-4, 2014.
+
+
 
